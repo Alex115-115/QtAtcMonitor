@@ -1,0 +1,20 @@
+# build directories
+build*/
+cmake-build*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+Testing/
+CTestTestfile.cmake
+cmake_install.cmake
+Makefile
+
+# Qt Creator
+*.user
+*.pro.user
+*.autosave
+
+# Misc
+*.log
+*.tmp
